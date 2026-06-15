@@ -13,7 +13,7 @@ export const client = {
     foundedYear: 2018,
     // Número com código do país e DDD — sem espaços, traços ou parênteses
     // Ex: "5511999999999" → Brasil (55) + São Paulo (11) + número
-    whatsapp: "5511947382910",
+    whatsapp: "00000",
     email: "contato@arcoconsultoria.com.br",
     // URL completa usada no sitemap, Open Graph e canonical
     website: "https://arcoconsultoria.com.br",
